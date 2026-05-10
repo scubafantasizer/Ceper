@@ -131,8 +131,8 @@ Manufacturer → writes Çeper to LBA Anchor
 [Update Cycle]
 1. Remove disk → attach to second machine  (Çeper dormant, data readable)
 2. Wipe disk on second machine             (clean reinstall)
-3. Write new Çeper version to LBA address  (BIOS tool, manual)
-4. Reattach → cold boot → new version active
+3. Reattach → cold boot → new version active
+4. Write new Çeper version to LBA address  (BIOS tool, manual)
 ```
 
 ---
@@ -149,5 +149,4 @@ The only machine available is not one that can be risked for this project. The c
 
 ---
 
-*Çeper — v0.1-draft | Theoretical Architecture Document*
-*All code blocks are conceptual illustrations; they are not executable production code.*
+*Çeper — v0.1-draft | Theoretical Architecture Document | All code blocks are conceptual illustrations; they are not executable production code.*
