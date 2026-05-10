@@ -1,4 +1,4 @@
-# ÇEPER — Final Technical Architecture Summary
+# ÇEPER — Technical Architecture Summary
 ### A Ring -2 Hardware Security Layer
 
 > **Status:** Theoretical Framework · Not Implemented · v0.1-draft
